@@ -1,0 +1,12 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "funcoes": "node funcoes.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
